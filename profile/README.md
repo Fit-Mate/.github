@@ -1,5 +1,7 @@
 ## FitMate Team
 
+(2023.03.02 ~ 2023.06.07)
+
 ### participants
 
 천민수
