@@ -13,5 +13,7 @@
 ### Repositories
 
 [Front](https://github.com/Fit-Mate/Front)
+<br> -> 천민수
 
 [Back (private)](https://github.com/Fit-Mate/FitMateBackEnd)
+<br> -> 이찬하, 정지성
